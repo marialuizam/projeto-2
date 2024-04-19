@@ -28,4 +28,5 @@ body {
 .container_botão{
     background-color: var(--branco-principal);
     border-radius: 10px;
+    padding: 1em;
 }
