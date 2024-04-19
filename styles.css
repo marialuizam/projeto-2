@@ -22,3 +22,7 @@ body {
 .container{
     height: 100vh;
 }
+
+.container_botão{
+    background-color: var(--branco-principal);
+}
